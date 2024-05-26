@@ -54,12 +54,12 @@ body {
 
 .estudante {
     display: flex;
-    border: 2px;
+    height: 200px;
 }
 
 .estudante-imagem {
-    width: 400px;
-    height: 200px;
+    width: 30%;
+    
     
 
 }
